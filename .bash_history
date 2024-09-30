@@ -161,3 +161,48 @@ git commit -m "Resolviendo conflictos después de fusionar historiales no relaci
 git push origin main
 git status
 cd
+cd Krishna/
+code . 
+git status
+git add . 
+git commit -m "agregando Gita"
+git push origin main 
+git status
+cd harekrishna/
+git add . 
+git commit -m "Gita"
+git push origin main 
+git status
+cd
+cd Krishna/
+git status
+git add . 
+git status
+git commit -m "Gita"
+git push  
+git status
+cd
+git status
+git add .
+git commit -m "Domingo 15,9,24" 
+git status
+git push 
+pip install matplotlib
+sudo apt update
+sudo apt install python3-pip
+pip3 install matplotlib
+cd Krishna/
+code . 
+cd
+ls
+mkdir Python
+ls
+cd Python/
+mkdir Fundamentos
+ls
+F
+cd Fundamentos/
+code . 
+ls
+code . 
+cd
