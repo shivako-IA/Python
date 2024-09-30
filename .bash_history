@@ -206,3 +206,45 @@ code .
 ls
 code . 
 cd
+ls
+cd Python/
+ls
+cd Fundamentos/
+ls
+cd Curso\ python\ Dalton/
+ls
+CD
+cd
+git status
+git add . 
+git commit -m"Python"
+git push origin main 
+git status
+cd Krishna/
+git status
+git add . 
+git commit -m"Septiembre"
+git push origin main
+git status
+cd
+cd P
+cd Python/
+git status
+ls
+cd Fundamentos/
+ls
+git status
+cd
+git status
+git add .
+git commit 
+git push origin main 
+git push 
+git push . 
+git status
+cd P
+cd Python/
+cd Fundamentos/
+ls
+git status
+cd
