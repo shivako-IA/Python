@@ -1,19 +1,3 @@
-ls
-git --version
-git config --get user.name
-git config --get user.email
-git config
-git config --get user.name
-git config --get user.email
-sudo apt update
-sudo apt upgrade
-git config --global user.name "Ako"
-git config --global user.email "codeako@outlook.com"
-git config --global init.defaultBranch main
-git config --global color.ui auto
-git config --global pull.rebase false
-git config --get user.name
-git config --get user.email
 ls ~/.ssh/id_ed25519.pub
 ssh-keygen -t ed25519
 ls ~/.ssh/id_ed25519.pub
@@ -441,3 +425,76 @@ git status
 git commit 
 git push . 
 git status
+cd Python/
+ls
+git status
+git add .
+git commit _m "Snake"
+git commit -m "Snake"
+git status
+git add .
+git status
+git commit -a
+git status
+git push . 
+git status
+git add .
+git commit -m "snake"
+git status
+git push . 
+cd
+ls
+cd Python/
+git clone git@github.com:shivako-IA/Python.git
+ls
+git remote -v
+git add Snake_Game
+git commit -m "SnakeGame"
+git status
+git log
+git push origin main
+git push origin main 
+git status
+git add .
+git commit -m "all"
+cd Snake_Game/
+git add .
+git push origin main
+git pull origin main 
+git add .
+git commit -m "SnakeGame"
+git push origin main 
+cd
+cd Python/
+ls
+git pull origin main 
+git push origin main
+git add .
+cd Snake_Game/
+ls
+code . 
+ls
+code .
+code . 
+mkdir Snake_Game.py
+ls
+cd Snake_Game.py/
+touch main.py snake.py apple.py
+ls
+code .
+ls
+code . 
+git add .
+git commit -m "SnakeGame"
+git pull origin main 
+git push origin main 
+git status
+cd
+git status
+ls
+ls
+alias ls='ls --color=auto'
+ls
+ls
+alias ls='ls --color=auto'
+ls
