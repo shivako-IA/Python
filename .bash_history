@@ -248,3 +248,160 @@ cd Fundamentos/
 ls
 git status
 cd
+git init
+cd Python/
+git clone git@github.com:shivako-IA/Python.git
+git status
+git add .
+git commit -m "primer commit"
+git push origin main 
+git push 
+git status
+git add .
+cd
+git status
+git add .
+git commit -m "commit"
+git status
+cd Python/
+git status
+ls
+cd Fundamentos/
+ls
+git status
+cd P
+ls
+cd
+cd Python/
+git pull 
+git status
+git remote -v
+git remote add origin https://github.com/shivako-IA/Python.git
+git remote set-url origin https://github.com/shivako-IA/Python.git
+git remote -v
+git push origin main 
+git pull origin main 
+git status
+git add . 
+git commit -m"Resolviendo conflictos y fusionando cambios"
+git push origin main
+ssh-keygen -t rsa -b 4096 -C "tu_email@example.com"
+ssh-keygen -t rsa -b 4096 -C "git@github.com:shivako-IA/Python.git"
+git remote set-url git@github.com:shivako-IA/Python.git
+git pull origin main 
+git pull origin main --allow-unrelated-histories
+git add .
+git commit -m"Resolviendo conflictos"
+git push origin main 
+git push origin main
+git pull origin main . 
+git pull 
+git pull origin main 
+git add .
+git commit _m"R"
+git commit -m "R"
+git push origin main 
+git push 
+git push . 
+git status
+cd
+git add .
+git commit
+git push origin main 
+git push 
+git push.
+git status
+ls
+cd Python/
+ls
+git status
+git remote -v
+git push -u origin main 
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+git remote set-url origin git@github.com:shivako-IA/Python.git
+git push -u origin main
+git status
+cd
+git status
+ls
+cd Krishna/
+code .
+ls
+touch mantra_generator.py
+ls
+code . 
+cd
+pip install Flask
+cd Krishna/
+ls
+touch app.py
+code .
+mkdir templates
+cd templates/
+touch index.html
+code . 
+cd
+cd Krishna/
+code .
+python3 app.py
+ls
+code .
+python3 app.py
+mkdir static 
+ls
+cd static/
+touch style.css 
+code .
+python3 app.py
+cd
+cd Krishna/
+python3 app.py
+code .
+ls
+mkdir app.py
+ls
+cd static/
+ls
+mkdir css
+touch style.css
+cd
+cd Krishna/
+code .
+python3 app.py
+cd app.py/
+python3 app.py
+cd
+cd Krishna/
+ls
+cd templates/
+python3 app.py
+cd
+cd Krishna/
+python3 app.py
+touch app.py
+code .
+python3 app.py
+code .
+chmod -R 755 static/
+FLASK_ENV=development flask run
+cd
+python3 --version
+pip3 --version
+pip3 show Flask
+ls
+cd Python/
+ls
+cd Fundamentos/
+ls
+mkdir Zen 
+ls
+cd Zen/
+code . 
+cd
+ls
+cd Krishna/
+ls
+code .
+cd
