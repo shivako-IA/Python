@@ -405,3 +405,39 @@ cd Krishna/
 ls
 code .
 cd
+cd Python/
+ls
+mkdir Snake_Game
+ls
+cd Snake_Game/
+code .
+cd
+git status
+git add .
+git commit -m "Snake Game"
+git push origin main 
+cd Python/
+git status
+git add .
+git commit -m "Snake Game"
+ls
+cd Snake_Game/
+git status
+git push origin main
+git push .
+git status
+cd
+git status
+cd Krishna/
+git add .
+git push . 
+git status
+git commit -m " Hare" 
+git status
+cd
+git status
+git add .
+git status
+git commit 
+git push . 
+git status
